@@ -102,7 +102,7 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 |<a href="https://howsecureismypassword.net/" target="_blank" >HOW SECURE IS MY PASSWORD?</a>|Password strength meter.|
 |<a href="https://www.gitbook.com/" target="_blank" >GitBook</a>|GitBook helps your team write, collaborate and publish content online.|
 |<a href="http://www.devopsbookmarks.com/" target="_blank" >DevOps Bookmarks</a>|Discover tools and frameworks in the DevOps landscape.|
-|<a href="http://www.algomation.com/" target="_blank" >Algomation</a>|a platform for viewing, creating and sharing any type of algorithm.|
+|<a href="https://coddy.tech/visualize" target="_blank" >Coddy Visualize</a>|step-by-step animations of sorting, searching, graph and tree algorithms.|
 |<a href="https://anvaka.github.io/common-words/#?lang=js" target="_blank" >Common Words</a>|visualization of common words in different programming languages.|
 |<a href="https://github.com/kovidgoyal/calibre" target="_blank" >Calibre</a>|ebook manager.|
 |<a href="https://xebialabs.com/devops-diagram-generator" target="_blank" >DevOps Diagram Generator</a>|Map your DevOps Toolchain .|
